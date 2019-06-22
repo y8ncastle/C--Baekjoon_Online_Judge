@@ -21,6 +21,6 @@ int main() {
 				else printf(".");
 				in = 0;
 			}
-  }
+  	}
 	printf("\n");
 }
